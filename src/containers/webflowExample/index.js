@@ -23,7 +23,7 @@ class Banner extends React.Component {
   render() {
     return (
       <div className="banner">
-        <h1>Hi Phil</h1>
+        <h1>Hi Toby</h1>
         <FontAwesome name="facebook" style={{ color: 'black' }} />
       </div>
     );
